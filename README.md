@@ -25,3 +25,9 @@ Requisitos e Dependências
 Conexão à internet para acessar o contador digital.
 Navegador web atualizado para visualizar o contador de forma adequada.
 Não são necessárias outras dependências específicas.
+
+link do tinkercad: https://www.tinkercad.com/things/aXr3ury4p7W-copy-of-edge-computing/editel?sharecode=39yNcC6a1xtZd9RcgyMiy4E-c5wtSeivq_7AmzaBirk
+
+Douglas Do Santos - RM556439
+Henrique Sanches - RM557959
+Matheus Marcelino - RM556332
